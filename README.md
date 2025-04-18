@@ -1,1 +1,1 @@
-# -kratos-layout
+# kratos-layout
